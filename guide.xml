@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
